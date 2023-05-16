@@ -1,0 +1,61 @@
+.container.row {
+    width: 100%;
+    height: 520px;
+    background-color: #fff;
+    margin: auto;
+    margin-bottom: 100px;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.carousel {
+    margin-top: 30px;
+    margin-left: 0px;
+
+}
+
+.carousel-inner img {
+    width: 300px;
+}
+
+.container.relation {
+    width: 100%;
+    height: 600px;
+    background-color: #fff;
+    margin: auto;
+    margin-top: -30px;
+}
+
+.container.relation h2 {
+    padding: 20px;
+}
+
+.container.relation h5 {
+    margin-left: 20px;
+}
+
+.products.row {
+    margin-left: -1px;
+
+}
+
+.container.story {
+    width: 100%;
+    background-color: #fff;
+    margin: auto;
+
+}
+
+.container.story h5 {
+    padding: 20px;
+}
+
+.container.story p {
+    padding: 20px;
+    font-size: 17px;
+    line-height: 40px;
+}
+
+
+

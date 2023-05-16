@@ -1,0 +1,91 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="Assets/Css/homepage.css">
+    <link rel="stylesheet" href="Assets/Css/css.css">
+
+</head>
+<body> 
+
+    <div class="login" style="margin-top: 0;">
+        <form action="" method="POST" class="form" id="form-2">
+            <h3 class="heading">Login</h3>
+
+            <div class="spacer"></div>
+
+
+            <div class="form-group">
+                <label for="email" class="form-label">Email</label>
+                <input id="email" name="email" type="text" placeholder="Please type your email" class="form-control">
+                <span class="form-message"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="password" class="form-label">Password</label>
+                <input id="password" name="password" type="password" placeholder="Please type your password" class="form-control">
+                <span class="form-message"></span>
+            </div>
+           <div class="form-group">
+            <a href="" style="font-size: 12px;color: black;">Forgot your password?</a>
+            <br>
+            <a href="register.html" style="font-size: 12px; color: black;">Create account</a> 
+           </div>
+           
+            <button class="form-submit"><a href="index.html" style="color: white;">Login</a></button>
+        </form>
+    </div>
+
+
+
+
+    <script src="Assets/Js/Validator.js"></script>
+    <script>
+        // Mong muốn khi sử dụng Validator 
+        Validator({
+            form: '#form-1',
+            formGroupSelector: '.form-group',
+            errorSelector: '.form-message',
+            rules: [
+                Validator.isRequired('#fullname', 'Vui lòng nhập tên đầy đủ của bạn '), // check user type 
+                Validator.isRequired('#email', 'Vui lòng nhập trường này '),
+                Validator.isEmail('#email'),
+                Validator.minLength('#password', 6),
+                Validator.isRequired('#password_confirmation'),
+                Validator.isRequired('#province'),
+                Validator.isRequired('input[name="gender"]'),
+                Validator.isRequired('#avatar'),
+                Validator.isConfirm('#password_confirmation', () => {
+                    // return value user text 
+                    return document.querySelector('#form-1 #password').value;
+                    // When rule isConfirm run, it will take value input #password and compare the value of user text  
+                }, 'Password Re-Rntered Is Incorrect')
+            ],
+            onSubmit: (data) => {
+                // call api
+                console.log(data);
+            }
+        });
+
+
+        Validator({
+            form: '#form-2',
+            formGroupSelector: '.form-group',
+            errorSelector: '.form-message',
+            rules: [
+                Validator.isRequired('#email', 'Please type correctly your email'),
+                Validator.isEmail('#email'),
+                Validator.minLength('#password', 6),
+            ],
+            onSubmit: (data) => {
+                // call api
+                console.log(data);
+            }
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,403 @@
+{
+    "chainsawMans": [
+        {
+            "id": 1,
+            "name": "Chainsaw Man vol 10",
+            "price": "$130",
+            "img": "https://cdn3.originalcomics.fr/29342/chainsaw-man-tome-10-vf.jpg",
+            "link": "detailCSM10.html"
+        }
+    ],
+    "godofWars": [
+        {
+            "id": 1,
+            "name": "God of War: The Official Novelizationr",
+            "price": "$430",
+            "img": "https://libribook.com/Images/god-war-pdf.jpg",
+            "link": "detailGow.html"
+          
+        }
+    ],
+    "arnols": [
+        {
+            "id": 1,
+            "name": "Die Große Bodybuilding-Bibel",
+            "price": "$230",
+            "img": "https://th.bing.com/th/id/OIP.sdx2-ag0Yp1zGdLHaNqk_AHaJp?pid=ImgDet&rs=1",
+            "link": "detailarnolBible.html"
+        }
+    ],
+    "finances": [
+        {
+            "id": 1,
+            "name": "The Finance Book",
+            "price": "$130",
+            "img": "https://consulterce.com/wp-content/uploads/2020/05/the-finance-book-cover.jpg",
+            "link": "detailfinace.html"
+        }
+    ],
+    "jojos": [
+        {
+            "id": 1,
+            "name": "Jojo Megazine: SBR",
+            "price": "$130",
+            "img": "https://i.pinimg.com/736x/f8/d9/98/f8d998ce76a7e395be020af018e6c722.jpg",
+            "link": "detailJojoM.html"
+        }
+    ]
+    ,
+    "ops": [
+        {
+            "id": 1,
+            "name": "Novel - One Piece Film Red",
+            "price": "$130",
+            "img": "https://ogre.natalie.mu/media/news/eiga/2022/0608/onepiecefilmred_poster202206.jpg?imwidth=750&imdensity=1"
+        }
+    ]    
+    ,
+    "shortstories": [
+        {
+            "id": 1,
+            "name": "Novel - Your Name",
+            "price": "$130",
+            "img": "https://www.austinmacauley.com/sites/default/files/styles/adaptive_general/public/9781787101340.jpg"
+        }
+    ]
+    ,
+    "sqls": [
+        {
+            "id": 1,
+            "name": "SQL: 2 Books in 1",
+            "price": "$100",
+            "img": "https://i5.walmartimages.com/asr/3b9a968c-4f2d-42b6-baa5-f88821a667f6.e0b9cf9906763b538b67256df528a7ba.jpeg"
+        }
+    ]
+    ,
+    "jss": [
+        {
+            "id": 1,
+            "name": "Eloquent JavasSript",
+            "price": "$130",
+            "img": "https://th.bing.com/th/id/R.93151d97da033f67d6a4c97557a9f952?rik=qpef8D2EATnJag&pid=ImgRaw&r=0"
+        }
+    ]
+    ,
+    "yns": [
+        {
+            "id": 1,
+            "name": "Novel - Your Name",
+            "price": "$130",
+            "img": "https://th.bing.com/th/id/R.4c5bd886afbe84638ca107df325494db?rik=hrwdTd58cz4qzQ&pid=ImgRaw&r=0"
+        }
+    ]
+    ,
+    "ras": [
+        {
+            "id": 1,
+            "name": "React In Patterns",
+            "price": "$130",
+            "img": "https://krasimir.gitbooks.io/react-in-patterns/content/cover.jpg"
+        }
+    ]
+    ,
+    "vns": [
+        {
+            "id": 1,
+            "name": "Lịch sử Việt Nam vol 9",
+            "price": "$130",
+            "img": "https://th.bing.com/th/id/R.92057f45df72ffe2bb326656f3924bcb?rik=nNCoJK%2bfmHieqw&riu=http%3a%2f%2fkhaocohoc.gov.vn%2fsites%2fdefault%2ffiles%2fimg006.jpg&ehk=g%2fePEvi8JeQIo9Lgux%2fyDFZdTsPxM%2bEeW9paAjFfsx4%3d&risl=&pid=ImgRaw&r=0"
+        }
+    ]
+    ,
+    "awh": [
+        {
+            "id": 1,
+            "name": "Ancient World History",
+            "price": "$130",
+            "img": "https://th.bing.com/th/id/OIP.JJ0kFSUL53fVlq14kxCllwHaKI?pid=ImgDet&rs=1"
+        }
+    ]
+    ,
+    "er": [
+        {
+            "id": 1,
+            "name": "A Startup Enxuta",
+            "price": "$130",
+            "img": "https://th.bing.com/th/id/OIP.j0HhbhIO_I_nQmH6SUqFIQDfEs?pid=ImgDet&rs=1"
+        }
+    ]
+    ,
+    "zo": [
+        {
+            "id": 1,
+            "name": "Zero to One",
+            "price": "$130",
+            "img": "https://th.bing.com/th/id/R.1d0675fabac8ed44ba4f7090710390f1?rik=2zEq5zQvK%2bhrPg&riu=http%3a%2f%2fwww.bookicious.com%2fbooks%2fzero-to-one.jpg&ehk=N4oyAT7W%2bUBK8sPf46tb7hhyRPmIOAtiawyO6t4TyAI%3d&risl=&pid=ImgRaw&r=0"
+        }
+    ]
+
+    ,
+    "non": [
+        {
+            "id": 1,
+            "name": "The Nature of Nature",
+            "price": "$130",
+            "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781426221026/nature-of-nature-9781426221026_hr.jpg"
+        }
+    ]
+    ,
+    "wh": [
+        {
+            "id": 1,
+            "name": "Weird History",
+            "price": "$130",
+            "img": "https://imgv2-2-f.scribdassets.com/img/document/337119328/original/de7a1ad6ad/1604806109?v=1"
+        }
+    ]
+
+    ,
+    "bs": [
+        {
+            "id": 1,
+            "name": "Bedtime Stories",
+            "price": "$130",
+            "img": "https://cdn2.penguin.com.au/covers/original/9780143796732.jpg"
+        }
+    ]
+    ,
+    "ls": [
+        {
+            "id": 1,
+            "name": "Love Story",
+            "price": "$130",
+            "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781451687590/love-story-9781451687590_hr.jpg"
+        }
+    ]
+    ,
+    "lifes": [
+        {
+            "id": 1,
+            "name": "Life Skills Activity Book",
+            "price": "$130",
+            "img": "https://th.bing.com/th/id/R.2c9e64322392597e92117e15e6ea1f6a?rik=Y5DuE01E7HKatw&pid=ImgRaw&r=0"
+        }
+    ]
+    ,
+    "dbz": [
+        {
+            "id": 1,
+            "name": "Dragon Ball Super: Broly",
+            "price": "$130",
+            "img": "https://th.bing.com/th/id/OIP.O6vkS-3aB_063SVZRTLRewHaLl?pid=ImgDet&rs=1"
+        }
+    ]
+
+    
+     ,
+    "hxh": [
+        {
+            "id": 1,
+            "name": "Hunter x Hunter vol 34",
+            "price": "$100",
+            "img": "https://th.bing.com/th/id/OIP.ByXHe1OsxcdRdeTWrVmQvQHaLH?pid=ImgDet&rs=1"
+        }
+    ]
+    ,
+    "nar711": [
+        {
+            "id": 1,
+            "name": "Naruto vol 71",
+            "price": "$100",
+            "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781421581767/naruto-vol-71-9781421581767_hr.jpg"
+        }
+    ]
+     ,
+    "nar722": [
+        {
+            "id": 1,
+            "name": "Naruto vol 72",
+            "price": "$130",
+            "img": "https://th.bing.com/th/id/R.92bf217cae211eff90a6af2b3c7f7628?rik=9SlC4UWDVeNJ0w&riu=http%3a%2f%2fis1.mzstatic.com%2fimage%2fthumb%2fPublication69%2fv4%2f60%2f31%2fa5%2f6031a559-df75-3429-2056-2717244672cf%2fsource%2f1800x2700sr.jpg&ehk=tO5OrAul0DeeW38RBz11BqBtwdth5QQ3aLYI4nvKacc%3d&risl=&pid=ImgRaw&r=0"
+        }
+    ]
+    ,
+    "csm144": [
+        {
+            "id": 1,
+            "name": "Chainsaw Man vol 14",
+            "price": "$130",
+            "img": "https://pbs.twimg.com/media/Fp-im14aYAERd8g.jpg"
+        }
+    ]
+    ,
+    "newR1": [
+        {
+            "id": 1,
+            "name": "Jojo's Bizare Adventure",
+            "price": "$130",
+            "img": "https://vignette.wikia.nocookie.net/jojo/images/b/b1/Volume_1.jpg/revision/latest?cb=20180718154155&path-prefix=es"
+        }
+    ]
+    ,
+    "newR2": [
+        {
+            "id": 1,
+            "name": "Kakegurui vol 1",
+            "price": "$130",
+            "img": "https://www.ecccomics.com/content/noticias/11449/Kakegurui1JP.jpg"
+        }
+    ]
+    ,
+    "newR3": [
+        {
+            "id": 1,
+            "name": "Detective Novel",
+            "price": "$130",
+            "img": "https://pulpcovers.com/wp-content/uploads/2018/06/Detective-Novels-November-1947.jpg"
+        }
+    ]
+    ,
+    "newR4": [
+        {
+            "id": 1,
+            "name": "Mercury",
+            "price": "$300",
+            "img": "https://th.bing.com/th/id/R.ee85540ac63bd8ecce2cc6347aee585f?rik=IqwnCEt8cHgr3Q&riu=http%3a%2f%2fd28hgpri8am2if.cloudfront.net%2fbook_images%2fcvr9781451663952_9781451663952_hr.jpg&ehk=%2fFJapuo57E8MyzhI70uzrBBl6mzhJeFatjfT19Dt%2b6M%3d&risl=1&pid=ImgRaw&r=0"
+        }
+    ]
+    ,
+    "newR5": [
+        {
+            "id": 1,
+            "name": "The Walking Dead",
+            "price": "$300",
+            "img": "https://th.bing.com/th/id/R.b5d0d0674cee434c9790754d737475bf?rik=H%2bhQd842nWZEmw&riu=http%3a%2f%2fmajorspoilers.com%2fwp-content%2fuploads%2f2012%2f07%2fWalkingDead-EX-Cover.jpg&ehk=dW75%2bMKI%2fYJ7Dyhk7PmbH46x3Mzgv2chKmblGvxIR10%3d&risl=&pid=ImgRaw&r=0"
+        }
+    ]
+    , 
+    "detailCSM": [
+        {
+            "id": 1,
+            "name": "Chainsaw Man vol 10",
+            "price": "$130",
+            "suppliers": "Kinokuniya Book Stores",
+            "publisher": "Tre Publisher",
+            "series": "Chainsaw Man",
+            "author": "Tatsuki Fujimoto",
+            "coverForm": "Paperback"
+        }
+    ]
+
+    , 
+    "detailGOW": [
+        {
+            "id": 2,
+            "name": "God of War: The Official Novelization",
+            "price": "$430",
+            "suppliers": "Viz Media",
+            "publisher": "Viz Media",
+            "series": "God of War",
+            "author": "J.M. Barlog, Cory Barlog",
+            "coverForm": "Paperback"
+        }
+    ]
+    ,
+     
+    "detailArnol": [
+        {
+            "id": 2,
+            "name": "Die große Bodybuilding-Bibel",
+            "price": "$230",
+            "suppliers": "Viz Media",
+            "publisher": "Viz Media",
+            "series": "Arnold Schwarzenegger",
+            "author": "Arnold Schwarzenegger, Bill Dobbins",
+            "coverForm": "Paperback"
+        }
+    ],
+
+    "financee": [
+        {
+            "id": 2,
+            "name": "The Finance Book",
+            "price": "$130",
+            "suppliers": "Viz Media",
+            "publisher": "Viz Media",
+            "series": "business",
+            "author": "Stuart Warner, Si Hussain",
+            "coverForm": "Paperback"
+        }
+    ],
+
+    "jojoMega": [
+        {
+            "id": 2,
+            "name": "JoJo's Bizarre Adventure Part 7 - Steel Ball Run (Official Colored)",
+            "price": "$130",
+            "suppliers": "Viz Media",
+            "publisher": "Viz Media",
+            "series": "Manga",
+            "author": " Hirohiko Araki",
+            "coverForm": "Paperback"
+        }
+    ],
+    "lifeStyles": [
+        {
+            "id": 1,
+            "title": "Release",
+            "name": "Arnold Schwarzenegger Autographed Total Recall Signed Book AFTAL",
+            "pic": "https://www.autographpros.com/wp-content/uploads/2018/08/arnold-schwarzenegger-autographed-total-recall-book-cover-1.jpg",
+            "day": "March 03, 2023"
+        },
+        {
+            "id": 2,
+            "title": "Release",
+            "name": "Season 2 of Chainsaw Man to release in late 2023 or early 2024.",
+            "pic": "https://th.bing.com/th/id/R.23d960ca6cc0ef2fcca64bae87ecc7f0?rik=zKZ%2bG6WRjtEJyA&pid=ImgRaw&r=0",
+            "day": "March 03, 2023"
+        },
+        {
+            "id": 3,
+            "title": "Business",
+            "name": "Elon Musk Loses $ 15 Billion in Just One Day",
+            "pic": "https://th.bing.com/th/id/R.0f38eb1c404f40128013f39cfce5f8b0?rik=hDqNuEDMPNNS7w&pid=ImgRaw&r=0",
+            "day": "March 03, 2023"
+        },
+        {
+            "id": 4,
+            "title": "Motivation speach",
+            "name": "Vladimir Lenin Quotes collection",
+            "pic": "https://th.bing.com/th/id/R.ab026bc8d6433a1e2772adb0dd746a74?rik=Ujsch2LvYz%2f6Nw&riu=http%3a%2f%2fwww.azquotes.com%2fpicture-quotes%2fquote-learning-is-never-done-without-errors-and-defeat-vladimir-lenin-51-98-45.jpg&ehk=ysKdwbgnODBukgogBQ1evAkiAyjzQT8TESciAz%2b4ogQ%3d&risl=&pid=ImgRaw&r=0",
+            "day": "April 03, 2023"
+        },
+        {
+            "id": 5,
+            "title": "New Release",
+            "name": "BEST-SELLING MANGA 2019",
+            "pic": "https://i.redd.it/tlrvmoryhos31.png",
+            "day": "March 03, 2019"
+        },
+        {
+            "id": 6,
+            "title": "New Release",
+            "name": "Books Coming Out in February 2023",
+            "pic": "https://i1.wp.com/www.tor.com/wp-content/uploads/2019/01/Fantasy-Feb19.png?fit=900%2C+9999&crop=0%2C0%2C100%2C506px&quality=100&ssl=1",
+            "day": "March 03, 2023"
+        }
+    ],
+    
+    "Locate": [
+        {
+            "id": 1,
+            "name": "From Rocky Balboa's 2nd House",
+            "pic": "https://th.bing.com/th/id/R.04d6e369367154b6cebe18be7d37fe02?rik=fEzx572Dc142dw&pid=ImgRaw&r=0",
+            "locate": "Rocky Balboa's 2nd House, South Lambert Street, Philadelphia, Pennsylvania, USA"
+        },
+        {
+            "id": 2,
+            "name": "From Rocky Steps, Philadelphia",
+            "pic": "https://th.bing.com/th/id/R.560e33a2f56e51736d8a3b65755e9748?rik=CgCRd8gLV2%2bGLw&riu=http%3a%2f%2fmashupcorner.s3-ap-southeast-1.amazonaws.com%2fwp-content%2fuploads%2f20170913133923%2fbest-libraries.jpg&ehk=DEKvt04HomDJXSp1w340jgfsCTwDI%2fT%2fyd6x4Qfiz8E%3d&risl=&pid=ImgRaw&r=0",
+            "locate": "Rocky Steps, Benjamin Franklin Parkway, Philadelphia, Pennsylvania, USA"
+        }
+    ]
+}
